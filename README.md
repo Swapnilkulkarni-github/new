@@ -4,3 +4,6 @@ on cloud link is given below.
 
 https://main.d2uaocxz161w9.amplifyapp.com/
 
+and it is also hosted on site below :
+
+https://online-attendance.netlify.app/
